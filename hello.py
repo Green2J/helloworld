@@ -5,5 +5,3 @@ def hello(msg):
 
 if__name__== "__main__":
     hello("world")
-    hello("Alice")
-    hello("Bob")
